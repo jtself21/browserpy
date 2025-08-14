@@ -10,7 +10,7 @@ import os
 
 # Hardcoded username and password
 username_str = "jtself21"
-password_str = "Adrienne42##"
+password_str = "Adrienne99(("
 
 # URL of the login page
 login_url = 'https://www5.benefitsolver.com/benefits/BenefitSolverView'
