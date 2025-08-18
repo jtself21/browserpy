@@ -76,8 +76,8 @@ try:
 
     # Locate the element containing the dollar amount
     # Update the selector if necessary to match the structure of the actual page
-    dollar_amount_element = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".float-right")))
-    dollar_amount = dollar_amount_element.text.strip()
+    # dollar_amount_element = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".float-right")))
+    # dollar_amount = dollar_amount_element.text.strip()
 
     # Save the dollar amount to a text file
     # current_directory = os.getcwd()
